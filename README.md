@@ -13,6 +13,7 @@ Creating and programming softwares is magic and i like to see and make this magi
 
 <br>
 
+<img align="right" width="250" src="https://media0.giphy.com/media/FlPJcTplkfefDCKq2b/giphy.gif?cid=ecf05e47obqzuy47dshs5re7g2hifqhtebgdrw8waj0l9nqq&rid=giphy.gif&ct=g" />
 
 ```python
 import csv 
@@ -34,7 +35,7 @@ with open('victor.csv', 'w', encoding='UTF8') as f:
 writer.writerow(dev)
 writer.writerow(self)
 ```
-<img align="right" width="250" src="https://media0.giphy.com/media/FlPJcTplkfefDCKq2b/giphy.gif?cid=ecf05e47obqzuy47dshs5re7g2hifqhtebgdrw8waj0l9nqq&rid=giphy.gif&ct=g" />
+
 
 <h2 align="left" style="font-weight: bold">Languages and Tools</h2>
 
