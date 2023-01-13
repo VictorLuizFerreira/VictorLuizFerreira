@@ -46,12 +46,6 @@ writer.writerow(self)
 <code><img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/></code>
 <code><img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/></code>
 
-<br><br><br><br><br>
-
-
-
-<br>
-
 <h2 align="right" style="font-weight: bold">GitHub Statistics</h2>
 
 <br>
