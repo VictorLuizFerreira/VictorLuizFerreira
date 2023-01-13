@@ -53,10 +53,10 @@ writer.writerow(self)
 
 
 <a href="https://github.com/VictorLuizFerreira">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=VictorLuizFerreira&show_icons=true&theme=synthwave&line_height=20" alt="**SEU NOME** github stats"/>
+ <img  src="https://github-readme-stats.vercel.app/api?username=VictorLuizFerreira&show_icons=true&theme=synthwave&line_height=26" alt="**SEU NOME** github stats"/>
 </a>
 <a href="https://github.com/VictorLuizFerreira">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorLuizFerreira&layout=compact&langs_count=16&theme=synthwave"/>
+  <img height="201cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorLuizFerreira&layout=compact&langs_count=16&theme=synthwave"/>
 </a>
 
 
