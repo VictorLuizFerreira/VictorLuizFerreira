@@ -66,9 +66,10 @@ writer.writerow(self)
 <br>
 
 <div>
-<img align="right" width="200" src="https://media0.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif?cid=ecf05e471cob4suakrgc7r9z5hfcod343mlnq8t1p585s2gp&rid=giphy.gif&ct=g" />
+<img align="right" width="150" src="https://media0.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif?cid=ecf05e471cob4suakrgc7r9z5hfcod343mlnq8t1p585s2gp&rid=giphy.gif&ct=g" />
 
   <a href="https://www.instagram.com/victor.luiz_fr/" target="_blank"><img  src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/victor_fr12" target="_blank"><img  src="	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/vtr.luiz.ferreira" target="_blank"><img  src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/victor-luiz-ferreira-501637195/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
