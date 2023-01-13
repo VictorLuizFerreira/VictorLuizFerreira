@@ -59,7 +59,7 @@ writer.writerow(self)
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorLuizFerreira&layout=compact&langs_count=16&theme=synthwave"/>
 </a>
 
-<img align="left" width="200" src="https://media0.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif?cid=ecf05e471cob4suakrgc7r9z5hfcod343mlnq8t1p585s2gp&rid=giphy.gif&ct=g" />
+
 
 <br>
 <h2 align="left">My Social Midias 📱 </h2>
@@ -80,3 +80,4 @@ writer.writerow(self)
   <a href="mailto:victorluiz_ferreira@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
 </div>
 
+<img align="left" width="200" src="https://media0.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif?cid=ecf05e471cob4suakrgc7r9z5hfcod343mlnq8t1p585s2gp&rid=giphy.gif&ct=g" />
