@@ -62,7 +62,7 @@ writer.writerow(self)
 
 
 <br>
-<h2 align="left">Midias e Contact📱 </h2>
+<h2 align="left">Midias and Contact📱 </h2>
 <br>
 
 <div>
