@@ -62,22 +62,22 @@ writer.writerow(self)
 
 
 <br>
-<h2 align="left">My Social Midias 📱 </h2>
+<h2 align="left">Midias e Contact📱 </h2>
 <br>
 
 <div>
+<img align="right" width="200" src="https://media0.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif?cid=ecf05e471cob4suakrgc7r9z5hfcod343mlnq8t1p585s2gp&rid=giphy.gif&ct=g" />
+
   <a href="https://www.instagram.com/victor.luiz_fr/" target="_blank"><img  src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/victor_fr12" target="_blank"><img  src="	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/vtr.luiz.ferreira" target="_blank"><img  src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/victor-luiz-ferreira-501637195/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
 
-<br>
-<h2 align="left">Contact 📞 </h2>
-<br>
-
-<div>
   <a href="mailto:victor123456789101112@gmail.com" target="_blank"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="mailto:victorluiz_ferreira@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
+  <a href="mailto:victorluiz_ferreira@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+
+  <a href="https://www.youtube.com/@VTRferreiraLZ" target="_blank"><img  src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.twitch.tv/vtrferreira" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  
 </div>
 
-<img align="left" width="200" src="https://media0.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif?cid=ecf05e471cob4suakrgc7r9z5hfcod343mlnq8t1p585s2gp&rid=giphy.gif&ct=g" />
