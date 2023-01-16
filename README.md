@@ -81,4 +81,4 @@ writer.writerow(self)
   
 </div>
 
-![Snake animation](https://github.com/VictorLuizFerreira/VictorLuizFerreira/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/FortunaArthur/FortunaArthur/blob/output/github-contribution-grid-snake.svg)
