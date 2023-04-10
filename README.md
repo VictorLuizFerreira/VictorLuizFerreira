@@ -5,7 +5,7 @@
 
 <h2 align="left">
   <img width="45" alt="about" src="https://cdn-icons-png.flaticon.com/512/924/924915.png"> Victor Luiz Ferreira
-  <img  style="float:right" alingn="center" src="https://komarev.com/ghpvc/?username=VictorLuizFerreira&color=blue" alt="Profile Views" /> 
+  
 </h2> 
 
 
