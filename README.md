@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=4500&pause=100&color=F7873A&center=true&vCenter=true&width=440&lines=Hello+There+%F0%9F%91%8B!;Welcome+to+my+GitHub!">
 </h1>
 
