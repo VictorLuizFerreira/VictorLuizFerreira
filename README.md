@@ -20,9 +20,9 @@ writer.writerow(dev)
 writer.writerow(self)
 ```
 
-<h3 align="left" style="font-weight: bold>Linguagens que estou estudando no momento: JavaScript, React, TypeSceipt</h3>
-<h3 align="left" style="font-weight: bold>Linguagens que já estudei: Python, MySQL</h3>
-<h3 align="left" style="font-weight: bold>Linguagens que pretendo estudar: Flutter</h3>
+Linguagens que estou estudando no momento: JavaScript, React, TypeSceipt
+Linguagens que já estudei: Python, MySQL
+Linguagens que pretendo estudar: Flutter
 
 <h2 align="left" style="font-weight: bold">Linguagens e Ferramentas</h2>
 
