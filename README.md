@@ -6,7 +6,7 @@
 
 
 
-I like to see and make the magic happen!
+Gosto de ver e fazer a magia acontecer!
 
 ```python
 import csv 
@@ -20,8 +20,11 @@ writer.writerow(dev)
 writer.writerow(self)
 ```
 
+<h3 align="left" style="font-weight: bold>Linguagens que estou estudando no momento: JavaScript, React, TypeSceipt</h3>
+<h3 align="left" style="font-weight: bold>Linguagens que já estudei: Python, MySQL</h3>
+<h3 align="left" style="font-weight: bold>Linguagens que pretendo estudar: Flutter</h3>
 
-<h2 align="left" style="font-weight: bold">Languages and Tools</h2>
+<h2 align="left" style="font-weight: bold">Linguagens e Ferramentas</h2>
 
 <br>
 
