@@ -21,11 +21,14 @@ writer.writerow(self)
 ```
 
 Linguagens que estou estudando no momento: JavaScript, SQL
-<code><img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></code>
+<code><img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></code>
+<code><img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/></code>
 <br>
 Linguagens que já estudei: Python
+<code><img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></code>
 <br>
 Linguagens que pretendo estudar: Flutter
+<code><img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/></code>
 <br>
 
 <h2 align="left" style="font-weight: bold">Linguagens e Ferramentas</h2>
