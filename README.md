@@ -6,7 +6,7 @@
 
 
 
-Creating and programming softwares is magic and i like to see and make this magic happen!
+I like to see and make the magic happen!
 
 <img align="right" width="200" src="https://media0.giphy.com/media/FlPJcTplkfefDCKq2b/giphy.gif?cid=ecf05e47obqzuy47dshs5re7g2hifqhtebgdrw8waj0l9nqq&rid=giphy.gif&ct=g" />
 
