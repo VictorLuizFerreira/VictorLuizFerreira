@@ -6,7 +6,7 @@
 
 
 
-Gosto de ver e fazer a magia acontecer!
+Gosto de ver e fazer a magia acontecer
 
 ```python
 import csv 
