@@ -42,11 +42,8 @@ Linguagens que pretendo estudar: Flutter
 
 <br>
 <h2 align="left">Entre em contato comigo 💻</h2>
-<br>
-
 <div>
   <a href="https://www.linkedin.com/in/victor-luiz-ferreira-501637195/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:vtrluiz.ferreira@gmail.com" target="_blank"><img  src="https://img.shields.io/badge/vtrluiz.ferreira@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.twitch.tv/vtrferreira" target="_blank"><img src="https://img.shields.io/badge/vtrferreira-9146FF?style=flat-square&logo=twitch&logoColor=white" target="_blank"></a>
-  
 </div>
